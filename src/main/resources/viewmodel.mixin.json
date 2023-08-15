@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "package": "com.dezc.viewmodel.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "refmap": "viewmodel.refmap.json",
+  "verbose": false,
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "client": [
+    "RenderArmMixin"
+  ]
+}

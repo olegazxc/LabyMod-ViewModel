@@ -1,0 +1,11 @@
+{
+  "description": "addon that allows you to change the visual position and rotation of the hands ( by dezc / https://github.com/ver-tuego )",
+  "name": "ViewModel",
+  "version": 1,
+  "author": "https://github.com/ver-tuego",
+  "uuid": "%uuid%",
+  "mainClass": "com.dezc.viewmodel.ViewModelMain",
+  "transformerClass": "com.dezc.viewmodel.MixinTransformer",
+  "category": 2,
+  "icon": "https://i.ibb.co/XXDLyHZ/gb.png"
+}
