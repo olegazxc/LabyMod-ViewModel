@@ -13,7 +13,7 @@ public class RenderGuiEvent {
 
     @Subscribe
     public void onRender(RenderWorldLastEvent event) {
-        if (Keyboard.isNewKeyDown(71)) {
+        if (Keyboard.isNewKeyDown(72)) {
             if (Minecraft.getInstance().currentScreen == null) {
                 updateRender();
             }
